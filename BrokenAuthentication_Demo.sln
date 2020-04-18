@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokenAuthentication_Demo", "BrokenAuthentication_Demo.csproj", "{149A33BD-399A-4218-8B5F-7B9F1CD25225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{149A33BD-399A-4218-8B5F-7B9F1CD25225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149A33BD-399A-4218-8B5F-7B9F1CD25225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149A33BD-399A-4218-8B5F-7B9F1CD25225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149A33BD-399A-4218-8B5F-7B9F1CD25225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {014859F9-514F-494C-91F5-A1D3C412F7D4}
+	EndGlobalSection
+EndGlobal
